@@ -4,8 +4,8 @@
 
 BSIT student • Web/App Developer • curious about AI & Data Science
 
-<a href="https://i.pinimg.com/originals/da/08/d5/da08d507bdd5a7eac485e885f5ed24a2.gif">
-  <img src="https://images.weserv.nl/?url=i.pinimg.com/originals/da/08/d5/da08d507bdd5a7eac485e885f5ed24a2.gif&w=1200&h=300&fit=cover&a=bottom&output=gif" alt="Animated GIF" width="100%" />
+<a href="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Azd2JsMHRsbXA1MWowamhrM2Jkdm5iZDdqb29oMjdrOXdwbTZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10RfO0Qm6RYYZq/giphy.gif">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Azd2JsMHRsbXA1MWowamhrM2Jkdm5iZDdqb29oMjdrOXdwbTZ5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10RfO0Qm6RYYZq/giphy.gif" alt="Animated GIF" width="100%" />
 </a>
 
 <br/>
