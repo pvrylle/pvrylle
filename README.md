@@ -70,3 +70,12 @@ BSIT student • Web/App Developer • curious about AI & Data Science
   <img src="https://img.shields.io/badge/Learning-Data_Science-22C55E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hireable-Yes-10B981?style=for-the-badge" />
 </sub>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pvrylle/pvrylle/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pvrylle/pvrylle/output/snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/pvrylle/pvrylle/output/snake.svg" />
+</picture>
+
