@@ -4,8 +4,8 @@
 
 BSIT student • Web/App Developer • curious about AI & Data Science
 
-<a href="https://tenor.com/view/freddy-fazbear-fnaf-pixel-gif-10936663198810392247">
-  <img src="https://media.tenor.com/l8bVPAEuRrcAAAAj/freddy-fazbear-fnaf.gif" alt="Freddy Fazbear pixel" width="160" />
+<a href="https://i.pinimg.com/originals/da/08/d5/da08d507bdd5a7eac485e885f5ed24a2.gif">
+  <img src="https://i.pinimg.com/originals/da/08/d5/da08d507bdd5a7eac485e885f5ed24a2.gif" alt="Animated GIF" width="160" />
 </a>
 
 <br/>
@@ -23,10 +23,6 @@ BSIT student • Web/App Developer • curious about AI & Data Science
   <img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,html,css,js,python,flask,supabase,git,github,vscode,powershell" />
 </p>
 
-## 🚀 Highlights
-- <a href="https://github.com/pvrylle/news-radio-cms"><b>K5 News Radio 88.7 FM</b></a> — Full‑stack PHP + MySQL CMS for radio stations with live audio streaming, program scheduling, ads tracking, and admin dashboard
-- <a href="https://github.com/pvrylle/GapoTravels"><b>GapoTravels</b></a> — Flask + Supabase travel guide for Olongapo with auth, reviews, image compression, and interactive maps <a href="https://gapotravels.onrender.com/">(Live)</a>
- - <a href="https://github.com/JustDev9/pawfect-match"><b>Pawfect Match</b></a> — Vue 3 + Flask + Supabase pet adoption platform; backend dev (APIs, auth, email, Supabase)
 
 ## 📊 GitHub Stats
 <p align="center">
